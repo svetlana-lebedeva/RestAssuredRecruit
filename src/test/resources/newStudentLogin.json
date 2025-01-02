@@ -1,0 +1,12 @@
+{
+  "firstName": "Svetlana",
+  "middleName": "Y",
+  "lastName": "Lebedeva",
+  "email": "lebedeva8.svetlana@example.com",
+  "password": "12345",
+  "address": "123 Main Street",
+  "city": "San Francisco",
+  "state": "CA",
+  "zip": "94545",
+  "summary": "This is my summary"
+}
